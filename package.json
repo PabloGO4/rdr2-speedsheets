@@ -1,0 +1,31 @@
+{
+  "name": "rdr2-speedsheets",
+  "version": "1.0.0",
+  "description": "Page speedsheet Red Dead Redemption 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloGO4/rdr2-speedsheets.git"
+  },
+  "author": "Narfull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloGO4/rdr2-speedsheets/issues"
+  },
+  "homepage": "https://github.com/PabloGO4/rdr2-speedsheets#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7",
+    "webpack-dev-middleware": "^7.4.2"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
